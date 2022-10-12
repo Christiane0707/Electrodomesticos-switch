@@ -1,7 +1,7 @@
 import javax.swing.*;
 public class PrincipalElectro {
     public static void main(String args[]){
-        ValorElectre val=new ValorElectro();
+        ValorElectro val=new ValorElectro();
         val.pedirDatosDeCompra();
         val.asignaPrecio();
         val.CalcularIva();
